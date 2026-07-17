@@ -1,16 +1,18 @@
 
 ## Hey there! 👋
 
-I’m Arthur, a French cybersecurity engineer based in Rennes.
+I’m Arthur, a French cybersecurity engineering student based in Rennes.
 
-I study computer engineering at EPITA, with a strong focus on cybersecurity.
+I’m currently studying computer engineering at EPITA, with a strong focus on cybersecurity. I enjoy understanding how systems work, how they fail, and how to make them more secure and resilient.
 
-I like understanding how systems work, how they break, and how to make them more secure.
+My interests include defensive security, automation, developer tooling, and building projects that solve real problems. I’m mainly drawn to the defensive side of cybersecurity, although offensive security is fascinating too.
 
-I’m more into defensive security, even though offensive security is pretty cool too.
+I’m currently working on several projects and gradually turning this GitHub profile into a place where I share what I build, learn, and ship.
 
-My GitHub is still pretty quiet for now, but I’m planning to build and ship multiple meaningful projects soon.
+### What I’m building
 
-My main interests are cybersecurity, automation, tooling, and projects that solve real problems.
+I’m also building **[Côté Gauche Production](https://cote-gauche-production.com)**, my development studio.
 
-If you want to know more about me, here is my [LinkedIn](https://linkedin.com/in/arthurbarreau/).
+### Connect with me
+
+You can learn more about my background and experience on **[LinkedIn](https://linkedin.com/in/arthurbarreau/)**.
