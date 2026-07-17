@@ -1,4 +1,3 @@
-
 ## Hey there! 👋
 
 I’m Arthur, a French cybersecurity engineer based in Rennes.
@@ -12,5 +11,9 @@ I’m more into defensive security, even though offensive security is pretty coo
 My GitHub is still pretty quiet for now, but I’m planning to build and ship multiple meaningful projects soon.
 
 My main interests are cybersecurity, automation, tooling, and projects that solve real problems.
+
+### Development studio
+
+Check out **[Côte Gauche Production](https://cote-gauche-production.com)**, my development studio where I build and ship digital products.
 
 If you want to know more about me, here is my [LinkedIn](https://linkedin.com/in/arthurbarreau/).
