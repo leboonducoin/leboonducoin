@@ -16,3 +16,9 @@ I’m also building **[Côté Gauche Production](https://cote-gauche-production.
 ### Connect with me
 
 You can learn more about my background and experience on **[LinkedIn](https://linkedin.com/in/arthurbarreau/)**.
+
+### Tokscale
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/leboonducoin/svg)](https://tokscale.ai/u/leboonducoin)
+
+[![Tokscale Tokens](https://tokscale.ai/api/badge/leboonducoin/svg)](https://tokscale.ai/u/leboonducoin)
